@@ -1,1 +1,3 @@
 # Student-Attendance-Management-System
+The Student Attendance Management System (SAMS) is a full-stack web application that automates attendance tracking for schools and colleges. Teachers can log in, mark daily attendance, view past records, and generate student or class-wise reports through a clean web interface built with HTML, CSS, JavaScript, Bootstrap, and jQuery.
+The backend uses Java, JSP, Servlets, and JDBC to handle logic and database operations, while MySQL stores all student and attendance data. The system runs on Apache Tomcat and follows an MVC-style structure, making it easy to maintain and extend. SAMS reduces manual work and ensures faster, more accurate attendance management.
